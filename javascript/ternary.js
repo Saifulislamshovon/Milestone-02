@@ -47,5 +47,9 @@ const discount= price/2 ;
 
 
 // Complex Ternary Operator ------
-(isLeader === true) && (price>=1000) ? console.log(price= price + 200) : console.log(price = price - ) ;
+
+(isLeader === true) && (price>=1000) ? console.log(price= price + 200) : console.log(price = price - discount);
+
+
+
 
