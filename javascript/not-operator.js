@@ -16,3 +16,4 @@ if (usernameLength >= 8 && usernameLength <= 20) {
 } else {
     console.log('Invalid username');
 }
+
